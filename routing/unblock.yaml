@@ -1,6 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,jetstar.com
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,userupload.net
